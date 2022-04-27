@@ -1,0 +1,25 @@
+{
+  "name": "hongqiao",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs": "^3.1.2",
+    "@types/three": "^0.131.0",
+    "axios": "^0.20.0",
+    "element3": "0.0.40",
+    "md5": "^2.3.0",
+    "mitt": "^3.0.0",
+    "vue": "^3.0.4",
+    "vue-i18n": "^9.1.7",
+    "vue-router": "^4.0.8"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.1",
+    "vite": "^1.0.0-rc.13"
+  }
+}
